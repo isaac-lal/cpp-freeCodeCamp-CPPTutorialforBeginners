@@ -18,6 +18,5 @@ int main() {
         cout << endl; // needed or else it would be infinite loop
     }
 
-
     return 0;
 }
